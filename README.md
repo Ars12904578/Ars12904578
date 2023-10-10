@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Ars12904578
-- 👀 I’m interested in Drawing
-- 🌱 I’m currently learning to program
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Web and Software Development
